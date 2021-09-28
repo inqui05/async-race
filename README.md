@@ -4,7 +4,7 @@
 - deploy работы https://inqui05-async-race.netlify.app (для работы требуется запустить api)
 
 Запустить проект на ПК:
-1. git clone https://github.com/mikhama/async-race-api.git  (запуск API требуется в обоих вариантов)
+1. git clone https://github.com/mikhama/async-race-api.git  (запуск API требуется в обоих вариантах)
 2. npm i
 3. npm start
 4. git clone https://github.com/inqui05/async-race.git
